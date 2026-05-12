@@ -33,6 +33,13 @@ This directory brings together useful tools for:
 The goal is to keep this list practical, neutral, and useful.
 
 ---
+## Featured Categories
+
+- **AI SEO & GEO Platforms** — tools for improving search visibility across AI answer engines and traditional search.
+- **LLMS.txt Tools** — tools for creating AI-readable website files.
+- **Schema & Structured Data Tools** — tools for generating and validating JSON-LD and Schema.org markup.
+- **Multilingual SEO Tools** — tools for localization, hreflang, translated metadata, and international SEO.
+- **Technical SEO Validators** — tools for checking crawlability, metadata, indexing, and on-page SEO issues.
 
 ## Table of Contents
 
@@ -263,4 +270,10 @@ If your tool is listed here, you can add this badge to your README or website:
 
 ```markdown
 [![Listed on Awesome AI SEO & GEO Tools](https://img.shields.io/badge/listed%20on-Awesome%20AI%20SEO%20%26%20GEO%20Tools-0ca9ed)](https://raghav453.github.io/awesome-ai-seo-geo-tools/)
+
+## Star History
+
+If this directory is useful, consider starring the repository so more people can discover it.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=raghav453/awesome-ai-seo-geo-tools&type=Date)](https://www.star-history.com/#raghav453/awesome-ai-seo-geo-tools&Date)
 
