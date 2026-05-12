@@ -8,7 +8,11 @@ assignees: ""
 
 ## Tool Name
 
+<!-- Example: Example SEO Tool -->
+
 ## Tool URL
+
+<!-- Please add the official website URL -->
 
 ## Suggested Category
 
@@ -30,6 +34,23 @@ Choose one:
 
 ## What does this tool help with?
 
+<!-- Write one or two short sentences -->
+
+## Pricing Model
+
+Choose one:
+
+- Free
+- Freemium
+- Paid
+- Open source
+- Unknown
+
 ## Why should it be added?
 
-## Is the tool free, freemium, open source, or paid?
+<!-- Explain why this tool is useful for AI SEO, GEO, technical SEO, multilingual SEO, structured data, or answer-engine visibility -->
+
+## Suggested Listing Text
+
+```markdown
+- [Tool Name](https://example.com/) - One short sentence explaining what the tool helps users do.
