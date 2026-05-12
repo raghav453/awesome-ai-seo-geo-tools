@@ -4,6 +4,9 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Maintained](https://img.shields.io/badge/maintained-yes-blue.svg)
 
+🌐 **Browse the website version:**  
+https://multilipi.github.io/awesome-ai-seo-geo-tools/
+
 A curated directory of tools and resources for **AI SEO**, **Generative Engine Optimization (GEO)**, **llms.txt**, **structured data**, **multilingual SEO**, **technical SEO**, and **answer-engine visibility**.
 
 This directory is built for SEO teams, marketers, content teams, developers, agencies, SaaS companies, ecommerce brands, and website owners who want to understand and improve how websites appear across search engines, AI answer engines, and multilingual search experiences.
