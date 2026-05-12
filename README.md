@@ -1,4 +1,7 @@
 # Awesome AI SEO & GEO Tools
+![Awesome](https://awesome.re/badge.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Maintained](https://img.shields.io/badge/maintained-yes-blue.svg) 
 
 A curated list of tools and resources for **AI SEO**, **Generative Engine Optimization (GEO)**, **llms.txt**, **structured data**, **multilingual SEO**, and **answer-engine visibility**.
 
