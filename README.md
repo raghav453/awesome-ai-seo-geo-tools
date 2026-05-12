@@ -264,6 +264,29 @@ A tool may be included if it helps with at least one of the following:
 
 We avoid adding tools that are unrelated, broken, overly promotional, duplicated, or unclear in purpose.
 
+## Star History
+
+If this directory is useful, consider starring the repository so more people can discover it.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=raghav453/awesome-ai-seo-geo-tools&type=Date)](https://www.star-history.com/#raghav453/awesome-ai-seo-geo-tools&Date)
+
+
+## Share This Directory
+
+If this resource is useful, you can help by:
+
+- Starring the repository
+- Sharing the live directory
+- Suggesting a tool
+- Opening a pull request
+- Adding the listed tool badge to your project or website
+
+Live directory:  
+https://raghav453.github.io/awesome-ai-seo-geo-tools/
+
+GitHub repository:  
+https://github.com/raghav453/awesome-ai-seo-geo-tools
+
 ## Listed Tool Badge
 
 If your tool is listed here, you can add this badge to your README or website:
@@ -273,7 +296,5 @@ If your tool is listed here, you can add this badge to your README or website:
 
 ## Star History
 
-If this directory is useful, consider starring the repository so more people can discover it.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=raghav453/awesome-ai-seo-geo-tools&type=Date)](https://www.star-history.com/#raghav453/awesome-ai-seo-geo-tools&Date)
 
