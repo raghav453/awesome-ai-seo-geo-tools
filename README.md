@@ -1,13 +1,33 @@
 # Awesome AI SEO & GEO Tools
+
 ![Awesome](https://awesome.re/badge.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Maintained](https://img.shields.io/badge/maintained-yes-blue.svg) 
+![Maintained](https://img.shields.io/badge/maintained-yes-blue.svg)
 
-A curated list of tools and resources for **AI SEO**, **Generative Engine Optimization (GEO)**, **llms.txt**, **structured data**, **multilingual SEO**, and **answer-engine visibility**.
+A curated directory of tools and resources for **AI SEO**, **Generative Engine Optimization (GEO)**, **llms.txt**, **structured data**, **multilingual SEO**, **technical SEO**, and **answer-engine visibility**.
 
-This list is built for SEO teams, marketers, content teams, developers, agencies, SaaS companies, ecommerce brands, and website owners who want to understand and improve how websites appear across search engines, AI answer engines, and multilingual search experiences.
+This directory is built for SEO teams, marketers, content teams, developers, agencies, SaaS companies, ecommerce brands, and website owners who want to understand and improve how websites appear across search engines, AI answer engines, and multilingual search experiences.
 
-> Maintained by the MultiLipi team.
+> Maintained by the MultiLipi team as an open resource for the SEO and AI search community.
+
+---
+
+## Why This Directory Exists
+
+Search is changing. Websites are no longer discovered only through traditional search results. They are also discovered, summarized, cited, and recommended through AI-powered platforms and answer engines.
+
+This directory brings together useful tools for:
+
+- Improving AI search visibility
+- Creating and validating `llms.txt`
+- Generating and checking structured data
+- Preparing content for answer engines
+- Managing multilingual SEO
+- Validating hreflang and international SEO setup
+- Auditing technical SEO issues
+- Improving website crawlability and indexability
+
+The goal is to keep this list practical, neutral, and useful.
 
 ---
 
