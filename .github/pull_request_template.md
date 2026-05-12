@@ -1,10 +1,10 @@
-## What was added?
+## Summary
 
-Please mention the tool or resource added.
+<!-- Briefly explain what was added or changed -->
 
-## Category
+## Category Updated
 
-Which category was updated?
+Choose one:
 
 - AI SEO & GEO Platforms
 - LLMS.txt Tools
@@ -20,10 +20,21 @@ Which category was updated?
 - Learning Resources
 - Other
 
+## Tool or Resource Added
+
+Tool name:
+
+Tool URL:
+
+## Why It Fits
+
+<!-- Explain why this tool is useful for this directory -->
+
 ## Checklist
 
-- [ ] The tool is relevant to AI SEO, GEO, structured data, multilingual SEO, technical SEO, or answer-engine visibility.
 - [ ] The link is working.
+- [ ] The tool is relevant to AI SEO, GEO, structured data, multilingual SEO, technical SEO, or answer-engine visibility.
 - [ ] The description is short and neutral.
 - [ ] The tool is placed under the correct category.
-- [ ] The listing does not include affiliate links or promotional language.
+- [ ] The listing does not use affiliate links.
+- [ ] The listing does not use promotional language like “best,” “#1,” or “guaranteed.”
