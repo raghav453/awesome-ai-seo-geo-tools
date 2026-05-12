@@ -234,6 +234,33 @@ You can suggest it by opening an issue or pull request.
 - No keyword-stuffed descriptions
 
 ### Suggested listing format
+- [Tool Name](https://example.com/) - One short sentence explaining what the tool helps users do.
+
+## Selection Criteria
+
+This directory is curated manually to keep the list useful and relevant.
+
+A tool may be included if it helps with at least one of the following:
+
+- AI SEO
+- Generative Engine Optimization
+- Answer Engine Optimization
+- llms.txt generation or validation
+- Schema.org or structured data workflows
+- Technical SEO audits
+- Multilingual SEO
+- Hreflang validation
+- Sitemap or robots.txt validation
+- AI search analytics
+- Content optimization for search or answer engines
+- Website localization or international SEO
+
+We avoid adding tools that are unrelated, broken, overly promotional, duplicated, or unclear in purpose.
+
+## Listed Tool Badge
+
+If your tool is listed here, you can add this badge to your README or website:
 
 ```markdown
-- [Tool Name](https://example.com/) - One short sentence explaining what the tool helps users do.
+[![Listed on Awesome AI SEO & GEO Tools](https://img.shields.io/badge/listed%20on-Awesome%20AI%20SEO%20%26%20GEO%20Tools-0ca9ed)](https://raghav453.github.io/awesome-ai-seo-geo-tools/)
+
