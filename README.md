@@ -218,7 +218,22 @@ This list is meant to stay useful, neutral, and practical. If you know a helpful
 
 Please keep descriptions short, clear, and non-promotional.
 
-Example format:
+## Submit a Tool
+
+Know a useful tool for AI SEO, GEO, llms.txt, structured data, multilingual SEO, technical SEO, or answer-engine visibility?
+
+You can suggest it by opening an issue or pull request.
+
+### Good submissions usually include:
+
+- A working public URL
+- Clear use case
+- Relevance to SEO, AI search, GEO, structured data, or multilingual visibility
+- Short and neutral description
+- No affiliate or tracking-heavy links
+- No keyword-stuffed descriptions
+
+### Suggested listing format
 
 ```markdown
 - [Tool Name](https://example.com/) - One short sentence explaining what the tool helps users do.
