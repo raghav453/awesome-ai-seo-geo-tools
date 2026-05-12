@@ -5,7 +5,7 @@
 ![Maintained](https://img.shields.io/badge/maintained-yes-blue.svg)
 
 🌐 **Browse the website version:**  
-https://multilipi.github.io/awesome-ai-seo-geo-tools/
+https://raghav453.github.io/awesome-ai-seo-geo-tools/
 
 A curated directory of tools and resources for **AI SEO**, **Generative Engine Optimization (GEO)**, **llms.txt**, **structured data**, **multilingual SEO**, **technical SEO**, and **answer-engine visibility**.
 
