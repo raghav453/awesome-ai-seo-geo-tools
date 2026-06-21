@@ -108,6 +108,7 @@ Tools that help content become easier for AI answer engines to understand, summa
 - [AlsoAsked](https://alsoasked.com/) - Tool for discovering question-based search intent and People Also Ask-style content ideas.
 - [AnswerThePublic](https://answerthepublic.com/) - Keyword and question research tool for understanding audience queries.
 - [Exploding Topics](https://explodingtopics.com/) - Trend discovery tool for identifying emerging topics before they become competitive.
+- [Recommd](https://recommd.com) - Free AI-visibility checker for local businesses that shows whether ChatGPT, Perplexity, and Google's AI mention your business or a competitor, with a fix plan.
 
 ---
 
