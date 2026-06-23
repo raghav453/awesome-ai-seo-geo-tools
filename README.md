@@ -70,6 +70,7 @@ Tools that help websites improve visibility across traditional search engines, A
 - [MarketMuse](https://www.marketmuse.com/) - Content intelligence platform for content planning, topic modeling, and optimization workflows.
 - [Clearscope](https://www.clearscope.io/) - Content optimization tool for improving search-focused content relevance and quality.
 - [Frase](https://www.frase.io/) - AI content and SEO workflow tool for research, briefs, outlines, and optimization.
+- [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO and GEO, connecting to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
 
 ---
 
