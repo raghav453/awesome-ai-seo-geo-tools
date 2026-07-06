@@ -154,6 +154,7 @@ Tools for checking hreflang implementation, language targeting, and internationa
 Tools for checking website health, metadata, crawlability, indexability, performance, and on-page SEO issues.
 
 - [MultiLipi AI SEO Analyzer](https://multilipi.com/tools/seo-analyzer) - Free SEO audit tool for checking metadata, H1 tags, alt text, canonical tags, broken links, and on-page SEO issues.
+- [AnswerLens](https://app.sfdj.net/) - Audits B2B SaaS public evidence across crawlable pages, metadata, pricing, comparison pages, proof, and llms.txt.
 - [Google Search Console](https://search.google.com/search-console/about) - Search performance and indexing tool from Google.
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Search performance, indexing, and site diagnostic platform from Bing.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler for technical SEO audits.
