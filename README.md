@@ -153,6 +153,7 @@ Tools for checking hreflang implementation, language targeting, and internationa
 
 Tools for checking website health, metadata, crawlability, indexability, performance, and on-page SEO issues.
 
+- [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - Check whether documented AI crawler user agents can reach a website and review the robots.txt and page-level rules that affect access.
 - [MultiLipi AI SEO Analyzer](https://multilipi.com/tools/seo-analyzer) - Free SEO audit tool for checking metadata, H1 tags, alt text, canonical tags, broken links, and on-page SEO issues.
 - [Google Search Console](https://search.google.com/search-console/about) - Search performance and indexing tool from Google.
 - [Bing Webmaster Tools](https://www.bing.com/webmasters/about) - Search performance, indexing, and site diagnostic platform from Bing.
@@ -295,6 +296,5 @@ If your tool is listed here, you can add this badge to your README or website:
 [![Listed on Awesome AI SEO & GEO Tools](https://img.shields.io/badge/listed%20on-Awesome%20AI%20SEO%20%26%20GEO%20Tools-0ca9ed)](https://raghav453.github.io/awesome-ai-seo-geo-tools/)
 
 ## Star History
-
 
 
