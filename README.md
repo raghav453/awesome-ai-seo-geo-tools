@@ -80,6 +80,7 @@ Tools that help websites create or validate `llms.txt` files for AI-readable web
 - [MultiLipi LLMS.txt Generator](https://multilipi.com/tools/llms-generator) - Free llms.txt generator for creating AI-readable website files for LLM and GEO visibility.
 - [LLMrefs LLMS.txt Generator](https://llmrefs.com/tools/llms-txt-generator) - Tool for generating llms.txt files for AI models and LLM discovery.
 - [Siftly Free GEO & AI SEO Tools](https://siftly.ai/free-tools) - Free tools for GEO and AI SEO workflows, including llms.txt generation.
+- [Good for Bots llms.txt Checker](https://goodforbots.com/tools/llms-txt-checker) - Free checker that fetches a site's llms.txt and reports whether it is present, valid and well formed.
 
 ---
 
