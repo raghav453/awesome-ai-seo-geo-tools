@@ -187,6 +187,7 @@ Tools for tracking how brands, websites, or content appear across search and AI-
 - [Google Analytics](https://analytics.google.com/) - Web analytics platform for tracking website traffic and user behavior.
 - [Plausible Analytics](https://plausible.io/) - Privacy-friendly web analytics platform.
 - [Fathom Analytics](https://usefathom.com/) - Privacy-focused web analytics platform.
+- [Pineprompt](https://pineprompt.com/) - Tracks brand mentions, position, sentiment and cited sources in AI answers from ChatGPT, Gemini, Claude and Google AI Overviews.
 
 ---
 
