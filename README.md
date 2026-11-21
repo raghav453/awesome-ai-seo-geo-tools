@@ -187,6 +187,7 @@ Tools for tracking how brands, websites, or content appear across search and AI-
 - [Google Analytics](https://analytics.google.com/) - Web analytics platform for tracking website traffic and user behavior.
 - [Plausible Analytics](https://plausible.io/) - Privacy-friendly web analytics platform.
 - [Fathom Analytics](https://usefathom.com/) - Privacy-focused web analytics platform.
+- [SupaSEO](https://supaseo.dev) - Tracks Google Maps rankings, organic results, and AI citations using your own provider keys; one-time license.
 
 ---
 
